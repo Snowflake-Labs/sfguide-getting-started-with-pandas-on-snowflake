@@ -9,4 +9,4 @@ dependencies:
   - jupyter
   - pip
   - pip:
-    - "./snowflake_snowpark_python-1.15.0a1-py3-none-any.whl[modin]"
+    - "snowflake-snowpark-python[modin]"
