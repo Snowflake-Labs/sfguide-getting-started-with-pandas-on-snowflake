@@ -1,0 +1,6 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - modin=*
+  - pandas=2.2.1
