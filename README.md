@@ -8,4 +8,4 @@ With [pandas on Snowflake](https://docs.snowflake.com/developer-guide/snowpark/p
 This quickstart will focus on getting started with Snowpark pandas and demonstrates the scalability benefits of using pandas on Snowflake.
 
 ## Step-by-Step Guide
-For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [Quickstart Guide](https://quickstarts.snowflake.com/guide/getting_started_with_snowpark_pandas/index.html).
+For prerequisites, environment setup, step-by-step guide and instructions, please refer to the [Quickstart Guide](https://quickstarts.snowflake.com/guide/getting_started_with_pandas_on_snowflake/#0).
